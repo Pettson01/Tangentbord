@@ -1,0 +1,220 @@
+*{
+  padding: 0;
+  margin: 0;
+  color: white;
+}
+
+body{
+  background-color: grey;
+}
+
+#row_1{
+  width: 1200px;
+  height: 30px;
+}
+
+.rad_1{
+  background-color: black;
+  border: 5px solid black;
+  height: 20px;
+  width: 45px;
+  float: left;
+  margin: 5px;
+}
+
+#row_2 {
+  float: left;
+  width: 1200px;
+  height: 40px;
+}
+
+.rad_2{
+  background-color: black;
+  border: 5px solid black;
+  height: 40px;
+  width: 45px;
+  float: left;
+  line-height: 10px;
+  margin: 5px;
+  margin-right: 10px;
+}
+
+#Backspace{
+  width: 110px;
+}
+
+.rad_2 p{
+  margin-top: 3px;
+}
+
+#row_3{
+  margin-top: 20px;
+  width: 1200px;
+  height: 40px;
+  float: left;
+}
+
+
+.rad_3{
+  background-color: black;
+  border: 5px solid black;
+  height: 40px;
+  width: 45px;
+  float: left;
+  line-height: 10px;
+  margin: 5px;
+}
+
+#Tab{
+  width: 90px;
+}
+
+#BracketRight{
+  margin-right: 25px;
+}
+
+.rad_3 p{
+  margin-top: 3px;
+}
+
+#row_4{
+  margin-top: 20px;
+  width: 1200px;
+  height: 40px;
+  float: left;
+}
+
+.rad_4 p{
+  margin-top: 3px;
+}
+
+.rad_4{
+  background-color: black;
+  border: 5px solid black;
+  height: 40px;
+  width: 45px;
+  float: left;
+  line-height: 10px;
+  margin: 5px;
+}
+
+#CapsLock{
+  width: 80px;
+}
+
+#Enter{
+  width: 80px;
+}
+
+
+
+#row_5{
+  margin-top: 20px;
+  width: 1200px;
+  height: 40px;
+  float: left;
+}
+
+.rad_5{
+  background-color: black;
+  border: 5px solid black;
+  height: 40px;
+  width: 45px;
+  float: left;
+  line-height: 10px;
+  margin: 5px;
+}
+
+.rad_5 p{
+  margin-top: 3px;
+}
+
+#ShiftLeft{
+  width: 60px;
+}
+
+#ShiftRight{
+  width: 90px;
+  margin-left: 125px;
+}
+
+#ControlLeft{
+  width: 60px;
+}
+
+#row_6{
+  margin-top: 20px;
+  width: 1200px;
+  height: 40px;
+  float: left;
+}
+
+.rad_6{
+  background-color: black;
+  border: 5px solid black;
+  height: 40px;
+  width: 45px;
+  float: left;
+  line-height: 10px;
+  margin: 5px;
+}
+
+#Space{
+  width: 305px;
+}
+
+#ArrowUp{
+  height: 20px;
+}
+
+#PageUp{
+  height: 20px;
+  font-size: 12px;
+  line-height: 5px;
+}
+
+#PageDown{
+  height: 20px;
+  font-size: 12px;
+  line-height: 5px;
+}
+
+#MetalLeft img{
+  height: 23px;
+  width: 23px;
+  margin-top: 8px;
+  margin-left: 8px;
+}
+
+#row_7{
+  margin-top: 20px;
+  width: 1200px;
+  height: 40px;
+  float: left;
+}
+
+.rad_7{
+  background-color: black;
+  border: 5px solid black;
+  height: 40px;
+  width: 45px;
+  float: left;
+  line-height: 10px;
+  margin: 5px;
+}
+
+#ArrowLeft{
+  margin-left: 735px;
+  height: 20px;
+  margin-top: -20px;
+}
+
+#ArrowDown{
+  margin-top: -20px;
+  height: 20px;
+}
+
+#ArrowRight{
+  margin-top: -20px;
+  height: 20px;
+}
